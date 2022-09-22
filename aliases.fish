@@ -21,7 +21,7 @@ alias got='git '
 alias get='git '
 alias gdt='git difftool'
 
-alias upgrade='sudo apt-get update && sudo apt-get upgrade && sudo apt-get clean'
+alias upgrade='sudo aptitude update && sudo aptitude upgrade'
 
 alias tm='ps -ef | grep'
 
